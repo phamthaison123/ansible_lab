@@ -1,0 +1,5 @@
+- name: Add user to sudoers
+  user:
+    name: newuser
+    groups: sudo
+    

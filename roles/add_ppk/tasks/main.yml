@@ -1,0 +1,5 @@
+- name: Add authorized key
+  authorized_key:
+    user: newuser
+    key:  'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDjpCx2q3d6rYaTY0r8zScLQ1eY4jOfXRgSK3rOF85rC2hUAsMEddZkKPfEzP6zYcnsHHp7zg2hZtDc9yqaYdu+mn07s4XmDfS3o7VbyReNPQCIW0nXRTT+ERgFbT6PbxHP7vrnm1NYl1MfoZtBYro3lSMKFQHrD0EIfxRyuX4HUcJA5ZvZ7zWpHJZ5rwlKdzV6Cluy9WR/A1xRwtxp2i23Wrf+w6kOqYMXJuPs+YlaR2Ny/tUQAFxdM40OCzFrV/rNgKZ6fRdpYwUhDAheC9+20o4h7zvORc3Oc06I43wTcTdmCFterqURVF0WblH+c0MiC1BGXpSbmEv2ZNkxyGXGBds/hqoCQV5+FSpZEbFdiyN8qg5WboYjGlcO6X/kGEBfM+zBHO3R918I9dal0AzlBSv5og6CoGk+mL7ghZj+eVnA1AAkvPSKT7t4IgqNFSKc3TnDCDxkN+uYB/iMuWg0ijMljjs4s7dFZUYk4T52l0VJny7Za89gZ5J8GHVq5Z0= sontahis@siuuu
+'

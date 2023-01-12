@@ -1,0 +1,22 @@
+---
+
+- hosts: all
+  become: true
+  tasks:
+
+  
+
+- hosts: all
+  become: true
+  roles:
+  
+    - create_user
+    - disable_ssh
+    - add_sudo
+    - add_ppk
+    
+
+    
+    
+
+  
