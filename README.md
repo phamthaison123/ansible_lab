@@ -10,5 +10,9 @@
 ![image](https://user-images.githubusercontent.com/91528234/212010180-8358cd66-c3f5-48f6-abae-22026cd2eb0f.png)
 # cấp quyền sudo
 ![Screenshot from 2023-01-12 15-01-51](https://user-images.githubusercontent.com/91528234/212010923-0e633a99-8e31-4e31-9f84-d5cf80f692a5.png)
-![Screenshot from 2023-01-12 15-00-45](https://user-images.githubusercontent.com/91528234/212010984-1a211acd-d818-47e2-90be-044e192760ac.png)
 ![Screenshot from 2023-01-12 15-00-35](https://user-images.githubusercontent.com/91528234/212010994-e1fadfea-8e6e-4836-8587-6c7f5581ad58.png)
+![Screenshot from 2023-01-12 15-00-45](https://user-images.githubusercontent.com/91528234/212010984-1a211acd-d818-47e2-90be-044e192760ac.png)
+# add public key
+![image](https://user-images.githubusercontent.com/91528234/212012521-5f312243-f36b-4a9e-a9e3-92013a7ef35e.png)
+![Screenshot from 2023-01-12 15-11-09](https://user-images.githubusercontent.com/91528234/212012843-d96288ff-2a5e-4252-a002-5be81f682d42.png)
+![Screenshot from 2023-01-12 15-11-23](https://user-images.githubusercontent.com/91528234/212012852-e67660a6-759f-44d8-8b69-0a6335fab5b4.png)
