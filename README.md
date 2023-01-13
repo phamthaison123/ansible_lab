@@ -1,3 +1,8 @@
+# Chỉnh giá trị các biến `user` `group` trong file `/host_vars`
+# Sau đó chạy lệnh
+```
+ansible-playbook --ask-become-pass lab1.yml 
+```
 
 # add user các virtual
 
