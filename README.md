@@ -3,6 +3,8 @@
 ```
 ansible-playbook --ask-become-pass lab1.yml 
 ```
+![image](https://user-images.githubusercontent.com/91528234/212241790-1fe7ea4a-1bd8-4adf-aa67-50349d66a173.png)
+
 
 # add user các virtual
 
